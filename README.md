@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi, welcome to my GitHub 👋<br><br>I'm an Informatics Engineering student with a strong interest in cybersecurity and technology.  <br>I enjoy learning about systems, networks, and security, and I’m constantly improving my skills through projects and hands-on practice.<br><br>Currently working with:<br>• C / C++<br>• Python (learning)<br>• SQL and databases<br>• Linux environments<br><br>Here you’ll find some of my projects, experiments, and learning progress as I grow in the field of software development and cybersecurity.<br><br>Thanks for visiting my profile.
+  Hi, welcome to my GitHub 👋<br><br>I'm an Informatics Engineering student with a strong interest in cybersecurity and technology.  <br>I enjoy learning about systems, networks, and security, and I’m constantly improving my skills through projects and hands-on practice.<br><br>Currently working with:<br>• C / C++<br>• Python (learning)<br>• SQL and databases<br>• Linux environments<br><br>Here you’ll find some of my projects, experiments, and learning progress as I grow in the field of software development and cybersecurity.<br><br>Thanks for visiting my profile.
 
 
 # 💻 Tech Stack:
